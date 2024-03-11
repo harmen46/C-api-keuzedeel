@@ -1,0 +1,105 @@
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/appsettings.Development.json
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/appsettings.json
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Keuzedeel Api
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Keuzedeel Api.deps.json
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Keuzedeel Api.runtimeconfig.json
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Keuzedeel Api.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Keuzedeel Api.pdb
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.csproj.AssemblyReference.cache
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.AssemblyInfoInputs.cache
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.AssemblyInfo.cs
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.csproj.CoreCompileInputs.cache
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.MvcApplicationPartsAssemblyInfo.cs
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.MvcApplicationPartsAssemblyInfo.cache
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/staticwebassets.build.json
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/staticwebassets.development.json
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/staticwebassets/msbuild.Keuzedeel Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Keuzedeel Api.props
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Keuzedeel Api.props
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Keuzedeel Api.props
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/scopedcss/bundle/Keuzedeel Api.styles.css
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.csproj.CopyComplete
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/refint/Keuzedeel Api.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.pdb
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.genruntimeconfig.cache
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/ref/Keuzedeel Api.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Humanizer.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Npgsql.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/System.CodeDom.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
