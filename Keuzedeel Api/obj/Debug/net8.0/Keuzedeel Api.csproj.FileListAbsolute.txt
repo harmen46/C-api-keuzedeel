@@ -103,3 +103,4 @@
 /home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/harmen/RiderProjects/angular api/Keuzedeel Api/Keuzedeel Api/obj/Debug/net8.0/Keuzedeel Api.sourcelink.json

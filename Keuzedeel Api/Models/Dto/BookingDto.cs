@@ -1,6 +1,6 @@
-namespace Keuzedeel_Api.Models.Domain;
+namespace Keuzedeel_Api.Models.Dto;
 
-public class Booking
+public class BookingDto
 {
 	public int Id { get; set; }
 	
